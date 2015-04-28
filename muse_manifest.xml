@@ -1,0 +1,630 @@
+<manifest alg="2" build="11" opt="false" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" resolutions="1x" timestamp="1430248817914">
+  <folder name="phone">
+    <folder name="css">
+      <file name="master_a-master.css" crc="360186919" ref="phone>chamberlaine-cove,-new-residence:phone>renovations---additions:phone>plaindealing-creek,-garage:phone>broad-creek,-new-residence:phone>historic:phone>caulk-cove-guest-cottage,-new-construction:phone>peach-orchard,-renovation,-addition:phone>turkey-neck-point,-new-residence:phone>miles-river,-renovation---pool-house:phone>tar-creek,-new-residence:phone>dixon-creek,-new-residence:phone>portfolio:phone>tred-avon-river-cottage,-renovation:phone>passion:phone>contact-us:phone>commercial:phone>harris-creek,-new-residence:phone>new-construction:phone>porter-creek,-new-residence:phone>process:phone>jacks-cove,-renovation---addition:phone>index:phone>old-wye-mills,-new-residence:phone>acorn,-renovation,-addition"/>
+      <file name="chamberlaine-cove_-new-residence.css" crc="4155357214" ref="phone>chamberlaine-cove,-new-residence"/>
+      <file name="renovations---additions.css" crc="33786284" ref="phone>renovations---additions"/>
+      <file name="plaindealing-creek_-garage.css" crc="196843463" ref="phone>plaindealing-creek,-garage"/>
+      <file name="broad-creek_-new-residence.css" crc="3988919546" ref="phone>broad-creek,-new-residence"/>
+      <file name="historic.css" crc="55894143" ref="phone>historic"/>
+      <file name="caulk-cove-guest-cottage_-new-construction.css" crc="3886755864" ref="phone>caulk-cove-guest-cottage,-new-construction"/>
+      <file name="peach-orchard_-renovation_-addition.css" crc="111169541" ref="phone>peach-orchard,-renovation,-addition"/>
+      <file name="turkey-neck-point_-new-residence.css" crc="3797130463" ref="phone>turkey-neck-point,-new-residence"/>
+      <file name="miles-river_-renovation---pool-house.css" crc="158606149" ref="phone>miles-river,-renovation---pool-house"/>
+      <file name="tar-creek_-new-residence.css" crc="4292505321" ref="phone>tar-creek,-new-residence"/>
+      <file name="dixon-creek_-new-residence.css" crc="76714354" ref="phone>dixon-creek,-new-residence"/>
+      <file name="portfolio.css" crc="4113522259" ref="phone>portfolio"/>
+      <file name="tred-avon-river-cottage_-renovation.css" crc="4225287403" ref="phone>tred-avon-river-cottage,-renovation"/>
+      <file name="passion.css" crc="4162376239" ref="phone>passion"/>
+      <file name="contact-us.css" crc="4082139580" ref="phone>contact-us"/>
+      <file name="commercial.css" crc="4241061936" ref="phone>commercial"/>
+      <file name="harris-creek_-new-residence.css" crc="3898494090" ref="phone>harris-creek,-new-residence"/>
+      <file name="new-construction.css" crc="4017900445" ref="phone>new-construction"/>
+      <file name="porter-creek_-new-residence.css" crc="332278319" ref="phone>porter-creek,-new-residence"/>
+      <file name="process.css" crc="4166299343" ref="phone>process"/>
+      <file name="jacks-cove_-renovation---addition.css" crc="3866961681" ref="phone>jacks-cove,-renovation---addition"/>
+      <file name="index.css" crc="147075806" ref="phone>index"/>
+      <file name="old-wye-mills_-new-residence.css" crc="511873445" ref="phone>old-wye-mills,-new-residence"/>
+      <file name="acorn_-renovation_-addition.css" crc="219240029" ref="phone>acorn,-renovation,-addition"/>
+    </folder>
+    <file name="index.html" crc="353043938" mt="1430248772439" redirect="true"/>
+    <file name="portfolio.html" crc="373551664" mt="1430248772439" redirect="true"/>
+    <file name="chamberlaine-cove,-new-residence.html" crc="3880389571" mt="1430248772439" redirect="true"/>
+    <file name="old-wye-mills,-new-residence.html" crc="518742920" mt="1430248772439" redirect="true"/>
+    <file name="porter-creek,-new-residence.html" crc="309091791" mt="1430248772439" redirect="true"/>
+    <file name="dixon-creek,-new-residence.html" crc="4023554054" mt="1430248772439" redirect="true"/>
+    <file name="tred-avon-river-cottage,-renovation.html" crc="359661241" mt="1430248772439" redirect="true"/>
+    <file name="miles-river,-renovation---pool-house.html" crc="4013321858" mt="1430248772439" redirect="true"/>
+    <file name="harris-creek,-new-residence.html" crc="4104807842" mt="1430248772439" redirect="true"/>
+    <file name="plaindealing-creek,-garage.html" crc="94795180" mt="1430248772439" redirect="true"/>
+    <file name="tar-creek,-new-residence.html" crc="4165742318" mt="1430248772439" redirect="true"/>
+    <file name="peach-orchard,-renovation,-addition.html" crc="102130737" mt="1430248772439" redirect="true"/>
+    <file name="acorn,-renovation,-addition.html" crc="3830962084" mt="1430248772439" redirect="true"/>
+    <file name="turkey-neck-point,-new-residence.html" crc="178991308" mt="1430248772439" redirect="true"/>
+    <file name="broad-creek,-new-residence.html" crc="301343134" mt="1430248772440" redirect="true"/>
+    <file name="caulk-cove-guest-cottage,-new-construction.html" crc="494944428" mt="1430248772439" redirect="true"/>
+    <file name="jacks-cove,-renovation---addition.html" crc="148201575" mt="1430248772439" redirect="true"/>
+    <file name="passion.html" crc="47083439" mt="1430248772439" redirect="true"/>
+    <file name="new-construction.html" crc="515493983" mt="1430248772439" redirect="true"/>
+    <file name="renovations---additions.html" crc="341444170" mt="1430248772439" redirect="true"/>
+    <file name="historic.html" crc="178729758" mt="1430248772439" redirect="true"/>
+    <file name="commercial.html" crc="4228335765" mt="1430248772439" redirect="true"/>
+    <file name="process.html" crc="317491430" mt="1430248772439" redirect="true"/>
+    <file name="contact-us.html" crc="4217071939" mt="1430248772439" redirect="true"/>
+  </folder>
+  <folder name="css">
+    <file name="site_global.css" crc="37758306"/>
+    <file name="master_b-master.css" crc="3807607146" ref="process:renovations---additions:passion:contact-us:new-construction:commercial:historic"/>
+    <file name="master_a-master.css" crc="165367857" ref="index"/>
+    <file name="master_projectmaster.css" crc="4086623779" ref="chamberlaine-cove,-new-residence:broad-creek,-new-residence:porter-creek,-new-residence:tred-avon-river-cottage,-renovation:harris-creek,-new-residence:jacks-cove,-renovation---addition:plaindealing-creek,-garage:turkey-neck-point,-new-residence:old-wye-mills,-new-residence:dixon-creek,-new-residence:miles-river,-renovation---pool-house:portfolio:peach-orchard,-renovation,-addition:caulk-cove-guest-cottage,-new-construction:acorn,-renovation,-addition:tar-creek,-new-residence"/>
+    <file name="chamberlaine-cove_-new-residence.css" crc="4101505419" ref="chamberlaine-cove,-new-residence"/>
+    <file name="broad-creek_-new-residence.css" crc="134113624" ref="broad-creek,-new-residence"/>
+    <file name="porter-creek_-new-residence.css" crc="4144737168" ref="porter-creek,-new-residence"/>
+    <file name="process.css" crc="155497500" ref="process"/>
+    <file name="tred-avon-river-cottage_-renovation.css" crc="3886525468" ref="tred-avon-river-cottage,-renovation"/>
+    <file name="harris-creek_-new-residence.css" crc="241740909" ref="harris-creek,-new-residence"/>
+    <file name="jacks-cove_-renovation---addition.css" crc="3961420948" ref="jacks-cove,-renovation---addition"/>
+    <file name="renovations---additions.css" crc="4021939053" ref="renovations---additions"/>
+    <file name="index.css" crc="4227527529" ref="index"/>
+    <file name="plaindealing-creek_-garage.css" crc="4086424384" ref="plaindealing-creek,-garage"/>
+    <file name="turkey-neck-point_-new-residence.css" crc="4210466280" ref="turkey-neck-point,-new-residence"/>
+    <file name="passion.css" crc="4218046092" ref="passion"/>
+    <file name="contact-us.css" crc="208862236" ref="contact-us"/>
+    <file name="old-wye-mills_-new-residence.css" crc="51823785" ref="old-wye-mills,-new-residence"/>
+    <file name="new-construction.css" crc="3943028575" ref="new-construction"/>
+    <file name="dixon-creek_-new-residence.css" crc="4021419433" ref="dixon-creek,-new-residence"/>
+    <file name="commercial.css" crc="512361831" ref="commercial"/>
+    <file name="miles-river_-renovation---pool-house.css" crc="1596864" ref="miles-river,-renovation---pool-house"/>
+    <file name="portfolio.css" crc="4074539842" ref="portfolio"/>
+    <file name="historic.css" crc="3787660624" ref="historic"/>
+    <file name="peach-orchard_-renovation_-addition.css" crc="3831418850" ref="peach-orchard,-renovation,-addition"/>
+    <file name="caulk-cove-guest-cottage_-new-construction.css" crc="144467360" ref="caulk-cove-guest-cottage,-new-construction"/>
+    <file name="acorn_-renovation_-addition.css" crc="50822024" ref="acorn,-renovation,-addition"/>
+    <file name="tar-creek_-new-residence.css" crc="148247893" ref="tar-creek,-new-residence"/>
+    <file name="iefonts_plaindealing-creek_-garage.css" crc="323269798" ref="plaindealing-creek,-garage"/>
+    <file name="iefonts_peach-orchard_-renovation_-addition.css" crc="3852498294" ref="peach-orchard,-renovation,-addition"/>
+    <file name="iefonts_acorn_-renovation_-addition.css" crc="491106766" ref="acorn,-renovation,-addition"/>
+    <file name="iefonts_broad-creek_-new-residence.css" crc="3864303566" ref="broad-creek,-new-residence"/>
+    <file name="iefonts_chamberlaine-cove_-new-residence.css" crc="362174045" ref="chamberlaine-cove,-new-residence"/>
+    <file name="iefonts_old-wye-mills_-new-residence.css" crc="3798157503" ref="old-wye-mills,-new-residence"/>
+    <file name="iefonts_dixon-creek_-new-residence.css" crc="3957289074" ref="dixon-creek,-new-residence"/>
+    <file name="iefonts_caulk-cove-guest-cottage_-new-construction.css" crc="517466187" ref="caulk-cove-guest-cottage,-new-construction"/>
+    <file name="iefonts_miles-river_-renovation---pool-house.css" crc="429333917" ref="miles-river,-renovation---pool-house"/>
+    <file name="iefonts_index.css" crc="4001228245" ref="index"/>
+    <file name="iefonts_porter-creek_-new-residence.css" crc="4028160691" ref="porter-creek,-new-residence"/>
+    <file name="iefonts_turkey-neck-point_-new-residence.css" crc="4280960264" ref="turkey-neck-point,-new-residence"/>
+    <file name="iefonts_jacks-cove_-renovation---addition.css" crc="18308790" ref="jacks-cove,-renovation---addition"/>
+    <file name="iefonts_tred-avon-river-cottage_-renovation.css" crc="3776209432" ref="tred-avon-river-cottage,-renovation"/>
+    <file name="iefonts_tar-creek_-new-residence.css" crc="514562095" ref="tar-creek,-new-residence"/>
+    <file name="iefonts_harris-creek_-new-residence.css" crc="482821582" ref="harris-creek,-new-residence"/>
+  </folder>
+  <folder name="assets">
+    <file name="acorn_after.jpg" crc="4070638771" mt="1416005568000"/>
+    <file name="acorn_after2.jpg" crc="4095327086" mt="1416429316000"/>
+    <file name="acorn_after3.jpg" crc="286240662" mt="1416005740000"/>
+    <file name="acorn_after4.jpg" crc="287400421" mt="1416005712000"/>
+    <file name="acorn_after5.jpg" crc="4015054134" mt="1416005683000"/>
+    <file name="acorn_before.jpg" crc="4276497019" mt="1403819174000"/>
+    <file name="acorn_before2.jpg" crc="4091747045" mt="1416006034000"/>
+    <file name="acorn_before3.jpg" crc="55900263" mt="1416005672000"/>
+    <file name="acorn_before4.jpg" crc="63326955" mt="1416005605000"/>
+    <file name="acorn_before5.jpg" crc="4039649852" mt="1416005620000"/>
+    <file name="peach_after.jpg" crc="3832199709" mt="1417486692000"/>
+    <file name="peach_before.jpg" crc="243350025" mt="1417486710000"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="3880902115" ref="index:passion:process:portfolio:renovations---additions:historic:new-construction:chamberlaine-cove,-new-residence:commercial:old-wye-mills,-new-residence:porter-creek,-new-residence:dixon-creek,-new-residence:tred-avon-river-cottage,-renovation:miles-river,-renovation---pool-house:harris-creek,-new-residence:plaindealing-creek,-garage:tar-creek,-new-residence:peach-orchard,-renovation,-addition:acorn,-renovation,-addition:turkey-neck-point,-new-residence:broad-creek,-new-residence:caulk-cove-guest-cottage,-new-construction:jacks-cove,-renovation---addition:contact-us:phone>index:phone>portfolio:phone>chamberlaine-cove,-new-residence:phone>old-wye-mills,-new-residence:phone>porter-creek,-new-residence:phone>dixon-creek,-new-residence:phone>tred-avon-river-cottage,-renovation:phone>miles-river,-renovation---pool-house:phone>harris-creek,-new-residence:phone>plaindealing-creek,-garage:phone>tar-creek,-new-residence:phone>peach-orchard,-renovation,-addition:phone>acorn,-renovation,-addition:phone>turkey-neck-point,-new-residence:phone>broad-creek,-new-residence:phone>caulk-cove-guest-cottage,-new-construction:phone>jacks-cove,-renovation---addition:phone>passion:phone>new-construction:phone>renovations---additions:phone>historic:phone>commercial:phone>process:phone>contact-us"/>
+    <file name="museutils.js" crc="521960461" ref="index:passion:process:portfolio:renovations---additions:historic:new-construction:chamberlaine-cove,-new-residence:commercial:old-wye-mills,-new-residence:porter-creek,-new-residence:dixon-creek,-new-residence:tred-avon-river-cottage,-renovation:miles-river,-renovation---pool-house:harris-creek,-new-residence:plaindealing-creek,-garage:tar-creek,-new-residence:peach-orchard,-renovation,-addition:acorn,-renovation,-addition:turkey-neck-point,-new-residence:broad-creek,-new-residence:caulk-cove-guest-cottage,-new-construction:jacks-cove,-renovation---addition:contact-us:phone>index:phone>portfolio:phone>chamberlaine-cove,-new-residence:phone>old-wye-mills,-new-residence:phone>porter-creek,-new-residence:phone>dixon-creek,-new-residence:phone>tred-avon-river-cottage,-renovation:phone>miles-river,-renovation---pool-house:phone>harris-creek,-new-residence:phone>plaindealing-creek,-garage:phone>tar-creek,-new-residence:phone>peach-orchard,-renovation,-addition:phone>acorn,-renovation,-addition:phone>turkey-neck-point,-new-residence:phone>broad-creek,-new-residence:phone>caulk-cove-guest-cottage,-new-construction:phone>jacks-cove,-renovation---addition:phone>passion:phone>new-construction:phone>renovations---additions:phone>historic:phone>commercial:phone>process:phone>contact-us"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="349594875" ref="index:passion:portfolio"/>
+    <file name="jquery.watch.js" crc="56779320" ref="index:passion:process:portfolio:renovations---additions:historic:new-construction:chamberlaine-cove,-new-residence:commercial:old-wye-mills,-new-residence:porter-creek,-new-residence:dixon-creek,-new-residence:tred-avon-river-cottage,-renovation:miles-river,-renovation---pool-house:harris-creek,-new-residence:plaindealing-creek,-garage:tar-creek,-new-residence:peach-orchard,-renovation,-addition:acorn,-renovation,-addition:turkey-neck-point,-new-residence:broad-creek,-new-residence:caulk-cove-guest-cottage,-new-construction:jacks-cove,-renovation---addition:contact-us:phone>index:phone>portfolio:phone>chamberlaine-cove,-new-residence:phone>old-wye-mills,-new-residence:phone>porter-creek,-new-residence:phone>dixon-creek,-new-residence:phone>tred-avon-river-cottage,-renovation:phone>miles-river,-renovation---pool-house:phone>harris-creek,-new-residence:phone>plaindealing-creek,-garage:phone>tar-creek,-new-residence:phone>peach-orchard,-renovation,-addition:phone>acorn,-renovation,-addition:phone>turkey-neck-point,-new-residence:phone>broad-creek,-new-residence:phone>caulk-cove-guest-cottage,-new-construction:phone>jacks-cove,-renovation---addition:phone>passion:phone>new-construction:phone>renovations---additions:phone>historic:phone>commercial:phone>process:phone>contact-us"/>
+    <file name="webpro.js" crc="220831917" ref="index:passion:process:renovations---additions:new-construction:phone>index:phone>passion:phone>new-construction:phone>renovations---additions:phone>process:phone>portfolio:phone>chamberlaine-cove,-new-residence:phone>old-wye-mills,-new-residence:phone>porter-creek,-new-residence:phone>dixon-creek,-new-residence:phone>tred-avon-river-cottage,-renovation:phone>miles-river,-renovation---pool-house:phone>harris-creek,-new-residence:phone>plaindealing-creek,-garage:phone>tar-creek,-new-residence:phone>peach-orchard,-renovation,-addition:phone>acorn,-renovation,-addition:phone>turkey-neck-point,-new-residence:phone>broad-creek,-new-residence:phone>caulk-cove-guest-cottage,-new-construction:phone>jacks-cove,-renovation---addition:phone>historic:phone>commercial:phone>contact-us"/>
+    <file name="musewpslideshow.js" crc="224651946" ref="index:passion:renovations---additions:new-construction:phone>index:phone>passion:phone>new-construction:phone>renovations---additions:phone>portfolio:phone>chamberlaine-cove,-new-residence:phone>old-wye-mills,-new-residence:phone>porter-creek,-new-residence:phone>dixon-creek,-new-residence:phone>tred-avon-river-cottage,-renovation:phone>miles-river,-renovation---pool-house:phone>harris-creek,-new-residence:phone>plaindealing-creek,-garage:phone>tar-creek,-new-residence:phone>peach-orchard,-renovation,-addition:phone>acorn,-renovation,-addition:phone>turkey-neck-point,-new-residence:phone>broad-creek,-new-residence:phone>caulk-cove-guest-cottage,-new-construction:phone>jacks-cove,-renovation---addition:phone>historic:phone>commercial:phone>process:phone>contact-us"/>
+    <file name="jquery.museoverlay.js" crc="276313855" ref="index:passion:renovations---additions:new-construction:phone>index:phone>passion:phone>new-construction:phone>renovations---additions:phone>portfolio:phone>chamberlaine-cove,-new-residence:phone>old-wye-mills,-new-residence:phone>porter-creek,-new-residence:phone>dixon-creek,-new-residence:phone>tred-avon-river-cottage,-renovation:phone>miles-river,-renovation---pool-house:phone>harris-creek,-new-residence:phone>plaindealing-creek,-garage:phone>tar-creek,-new-residence:phone>peach-orchard,-renovation,-addition:phone>acorn,-renovation,-addition:phone>turkey-neck-point,-new-residence:phone>broad-creek,-new-residence:phone>caulk-cove-guest-cottage,-new-construction:phone>jacks-cove,-renovation---addition:phone>historic:phone>commercial:phone>process:phone>contact-us"/>
+    <file name="touchswipe.js" crc="325405309" ref="index:passion:renovations---additions:new-construction:phone>index:phone>passion:phone>new-construction:phone>renovations---additions:phone>portfolio:phone>chamberlaine-cove,-new-residence:phone>old-wye-mills,-new-residence:phone>porter-creek,-new-residence:phone>dixon-creek,-new-residence:phone>tred-avon-river-cottage,-renovation:phone>miles-river,-renovation---pool-house:phone>harris-creek,-new-residence:phone>plaindealing-creek,-garage:phone>tar-creek,-new-residence:phone>peach-orchard,-renovation,-addition:phone>acorn,-renovation,-addition:phone>turkey-neck-point,-new-residence:phone>broad-creek,-new-residence:phone>caulk-cove-guest-cottage,-new-construction:phone>jacks-cove,-renovation---addition:phone>historic:phone>commercial:phone>process:phone>contact-us"/>
+    <file name="pie.js" crc="3827607177" ref="index:chamberlaine-cove,-new-residence:old-wye-mills,-new-residence:porter-creek,-new-residence:dixon-creek,-new-residence:tred-avon-river-cottage,-renovation:miles-river,-renovation---pool-house:harris-creek,-new-residence:plaindealing-creek,-garage:tar-creek,-new-residence:peach-orchard,-renovation,-addition:acorn,-renovation,-addition:turkey-neck-point,-new-residence:broad-creek,-new-residence:caulk-cove-guest-cottage,-new-construction:jacks-cove,-renovation---addition"/>
+    <file name="musewpdisclosure.js" crc="4110183178" ref="passion:process:new-construction:phone>passion:phone>process"/>
+    <file name="museredirect.js" crc="4117159434" ref="index:passion:process:portfolio:renovations---additions:historic:new-construction:chamberlaine-cove,-new-residence:commercial:old-wye-mills,-new-residence:porter-creek,-new-residence:dixon-creek,-new-residence:tred-avon-river-cottage,-renovation:miles-river,-renovation---pool-house:harris-creek,-new-residence:plaindealing-creek,-garage:tar-creek,-new-residence:peach-orchard,-renovation,-addition:acorn,-renovation,-addition:turkey-neck-point,-new-residence:broad-creek,-new-residence:caulk-cove-guest-cottage,-new-construction:jacks-cove,-renovation---addition:contact-us"/>
+    <file name="jquery.musemenu.js" crc="397543671" ref="phone>index:phone>portfolio:phone>chamberlaine-cove,-new-residence:phone>old-wye-mills,-new-residence:phone>porter-creek,-new-residence:phone>dixon-creek,-new-residence:phone>tred-avon-river-cottage,-renovation:phone>miles-river,-renovation---pool-house:phone>harris-creek,-new-residence:phone>plaindealing-creek,-garage:phone>tar-creek,-new-residence:phone>peach-orchard,-renovation,-addition:phone>acorn,-renovation,-addition:phone>turkey-neck-point,-new-residence:phone>broad-creek,-new-residence:phone>caulk-cove-guest-cottage,-new-construction:phone>jacks-cove,-renovation---addition:phone>passion:phone>new-construction:phone>renovations---additions:phone>historic:phone>commercial:phone>process:phone>contact-us:index:passion:process:portfolio:renovations---additions:historic:new-construction:chamberlaine-cove,-new-residence:commercial:old-wye-mills,-new-residence:porter-creek,-new-residence:dixon-creek,-new-residence:tred-avon-river-cottage,-renovation:miles-river,-renovation---pool-house:harris-creek,-new-residence:plaindealing-creek,-garage:tar-creek,-new-residence:peach-orchard,-renovation,-addition:acorn,-renovation,-addition:turkey-neck-point,-new-residence:broad-creek,-new-residence:caulk-cove-guest-cottage,-new-construction:jacks-cove,-renovation---addition:contact-us"/>
+    <file name="html5shiv.js" crc="4241844378" ref="phone>index:phone>portfolio:phone>chamberlaine-cove,-new-residence:phone>old-wye-mills,-new-residence:phone>porter-creek,-new-residence:phone>dixon-creek,-new-residence:phone>tred-avon-river-cottage,-renovation:phone>miles-river,-renovation---pool-house:phone>harris-creek,-new-residence:phone>plaindealing-creek,-garage:phone>tar-creek,-new-residence:phone>peach-orchard,-renovation,-addition:phone>acorn,-renovation,-addition:phone>turkey-neck-point,-new-residence:phone>broad-creek,-new-residence:phone>caulk-cove-guest-cottage,-new-construction:phone>jacks-cove,-renovation---addition:phone>passion:phone>new-construction:phone>renovations---additions:phone>historic:phone>commercial:phone>process:phone>contact-us:index:passion:process:portfolio:renovations---additions:historic:new-construction:chamberlaine-cove,-new-residence:commercial:old-wye-mills,-new-residence:porter-creek,-new-residence:dixon-creek,-new-residence:tred-avon-river-cottage,-renovation:miles-river,-renovation---pool-house:harris-creek,-new-residence:plaindealing-creek,-garage:tar-creek,-new-residence:peach-orchard,-renovation,-addition:acorn,-renovation,-addition:turkey-neck-point,-new-residence:broad-creek,-new-residence:caulk-cove-guest-cottage,-new-construction:jacks-cove,-renovation---addition:contact-us"/>
+  </folder>
+  <folder name="images">
+    <file name="arrow copy_rev.png" crc="4129055575" ref="index:passion:portfolio"/>
+    <file name="arrow.png" crc="396123558" ref="index:passion:portfolio"/>
+    <file name="carman02.jpg" crc="257906725" ref="index:phone>index"/>
+    <file name="blank.gif" crc="4208392903" ref="index:passion:renovations---additions:new-construction:phone>index:phone>passion:phone>new-construction:phone>renovations---additions"/>
+    <file name="cone02.jpg" crc="363127685" ref="index:phone>index"/>
+    <file name="cone15a.jpg" crc="41347598" ref="index:phone>index"/>
+    <file name="covehall-46.jpg" crc="225574825" ref="index:phone>index"/>
+    <file name="doehler7a.jpg" crc="3827660593" ref="index:phone>index"/>
+    <file name="doehler20a.jpg" crc="284011756" ref="index:phone>index"/>
+    <file name="hackett14.jpg" crc="464013609" ref="index:phone>index"/>
+    <file name="hermangarage-3.jpg" crc="404830525" ref="index:phone>index"/>
+    <file name="marshall-6.jpg" crc="3804460089" ref="index:phone>index"/>
+    <file name="marshall-9.jpg" crc="9066827" ref="index:phone>index"/>
+    <file name="marshall-28.jpg" crc="4103630712" ref="index:phone>index"/>
+    <file name="reese13a.jpg" crc="129201857" ref="index:phone>index"/>
+    <file name="reese16a.jpg" crc="4174469935" ref="index:phone>index"/>
+    <file name="loading.gif" crc="3815509949" ref="index:passion:renovations---additions:new-construction:phone>index:phone>passion:phone>new-construction:phone>renovations---additions"/>
+    <file name="doehler8a.jpg" crc="3795014612" ref="passion"/>
+    <file name="hackett19.jpg" crc="4048289464" ref="phone>harris-creek,-new-residence:harris-creek,-new-residence"/>
+    <file name="hermangarage-4.jpg" crc="73916460" ref="phone>plaindealing-creek,-garage:plaindealing-creek,-garage"/>
+    <file name="marshall-27.jpg" crc="40228863" ref="phone>tar-creek,-new-residence:tar-creek,-new-residence"/>
+    <file name="rosenthal08.jpg" crc="4088621129" ref="passion:new-construction"/>
+    <file name="rosenthal10a.jpg" crc="95814617" ref="passion:new-construction"/>
+    <file name="zecherguesthouse-2.jpg" crc="4229702136" ref="passion:new-construction"/>
+    <file name="covehall-19-crop-u11041.jpg" crc="3980852239" ref="passion"/>
+    <file name="hackett19-crop-u11043.jpg" crc="502601678" ref="passion"/>
+    <file name="hermangarage-4-crop-u11045.jpg" crc="54130817" ref="passion"/>
+    <file name="marshall-27-crop-u11047.jpg" crc="4063205505" ref="passion"/>
+    <file name="rosenthal08-crop-u11039.jpg" crc="444340807" ref="passion"/>
+    <file name="rosenthal10a-crop-u11051.jpg" crc="4063587539" ref="passion"/>
+    <file name="zecherguesthouse-2-crop-u11049.jpg" crc="492283174" ref="passion"/>
+    <file name="reese16a588x471.jpg" crc="363061141" ref="passion"/>
+    <file name="2.jpg" crc="3880084908" ref="phone>portfolio:portfolio"/>
+    <file name="buckmaster31.jpg" crc="127628357" ref="phone>renovations---additions"/>
+    <file name="covehall-48-crop-u11134.jpg" crc="396819940" ref="passion"/>
+    <file name="monet-rt--crop-u11136.jpg" crc="363418503" ref="passion"/>
+    <file name="rt-westdover-3.jpg" crc="89609249" ref="passion"/>
+    <file name="armory-5.jpg" crc="307411300" ref="passion"/>
+    <file name="officepark-8.jpg" crc="211394672" ref="passion"/>
+    <file name="19-crop-u12087.jpg" crc="161006333" ref="portfolio"/>
+    <file name="covehall-8-crop-u12160.jpg" crc="91864387" ref="portfolio"/>
+    <file name="rosenthal1a-crop-u12248.jpg" crc="277132856" ref="portfolio"/>
+    <file name="boyd-59-crop-u12096.jpg" crc="4208388229" ref="portfolio"/>
+    <file name="doehler11a-crop-u12157.jpg" crc="165950440" ref="portfolio"/>
+    <file name="monet-rt-2.jpg" crc="3932347258" ref="portfolio:phone>portfolio"/>
+    <file name="zecherguesthouse-2-crop-u12253.jpg" crc="4255959915" ref="portfolio"/>
+    <file name="carman0-crop-u12106.jpg" crc="143377142" ref="portfolio"/>
+    <file name="hackett30-crop-u12150.jpg" crc="4102490519" ref="portfolio"/>
+    <file name="22.jpg" crc="4183074476" ref="phone>renovations---additions"/>
+    <file name="buckmaster16-crop-u12258.jpg" crc="156639317" ref="portfolio"/>
+    <file name="cone16a-crop-u12116.jpg" crc="3833294752" ref="portfolio"/>
+    <file name="hermangarage-1-crop-u12154.jpg" crc="3759018698" ref="portfolio"/>
+    <file name="reese16a2.jpg" crc="232989805" ref="portfolio:phone>portfolio"/>
+    <file name="marshall-38-crop-u12265.jpg" crc="3819238170" ref="portfolio"/>
+    <file name="2-crop-u2686.jpg" crc="404036429" ref="renovations---additions"/>
+    <file name="covehall-48-crop-u6243.jpg" crc="321321262" ref="renovations---additions"/>
+    <file name="monet-rt-.jpg" crc="397969998" ref="phone>peach-orchard,-renovation,-addition"/>
+    <file name="2-crop-u2689.jpg" crc="402820201" ref="renovations---additions"/>
+    <file name="buckmaster31-crop-u2698.jpg" crc="45849013" ref="renovations---additions"/>
+    <file name="covehall-48100x71.jpg" crc="3852582300" ref="renovations---additions"/>
+    <file name="monet-rt--crop-u2716.jpg" crc="4113113595" ref="renovations---additions"/>
+    <file name="rt-westdover-3-crop-u10202.jpg" crc="273010331" ref="historic"/>
+    <file name="covehall-19.jpg" crc="83337210" ref="new-construction"/>
+    <file name="reese16a-crop-u6220.jpg" crc="40283324" ref="new-construction"/>
+    <file name="covehall-19-crop-u6192.jpg" crc="4230708777" ref="new-construction"/>
+    <file name="hackett19-crop-u6184.jpg" crc="452280341" ref="new-construction"/>
+    <file name="hermangarage-4-crop-u6182.jpg" crc="456800452" ref="new-construction"/>
+    <file name="marshall-27-crop-u6190.jpg" crc="4174298088" ref="new-construction"/>
+    <file name="rosenthal08-crop-u6186.jpg" crc="112580369" ref="new-construction"/>
+    <file name="rosenthal10a-crop-u6188.jpg" crc="3774093325" ref="new-construction"/>
+    <file name="zecherguesthouse-2-crop-u6196.jpg" crc="3903568680" ref="new-construction"/>
+    <file name="reese16a84x67.jpg" crc="465299265" ref="phone>new-construction"/>
+    <file name="boyd-25-crop-u2845.jpg" crc="4114632306" ref="new-construction"/>
+    <file name="boyd-59-crop-u3008.jpg" crc="3791927595" ref="new-construction"/>
+    <file name="buckmaster32-crop-u2960.jpg" crc="3788263825" ref="new-construction"/>
+    <file name="hackett-11.jpg" crc="377331549" ref="new-construction"/>
+    <file name="reese16a-crop-u2978.jpg" crc="307201333" ref="new-construction"/>
+    <file name="rosenthal32a-crop-u2987.jpg" crc="125178326" ref="new-construction"/>
+    <file name="20.jpg" crc="477588339" ref="chamberlaine-cove,-new-residence"/>
+    <file name="19-crop-u9103.jpg" crc="3927896017" ref="chamberlaine-cove,-new-residence"/>
+    <file name="5.jpg" crc="486242778" ref="chamberlaine-cove,-new-residence"/>
+    <file name="3.jpg" crc="4112912309" ref="chamberlaine-cove,-new-residence"/>
+    <file name="9.jpg" crc="3765970971" ref="chamberlaine-cove,-new-residence"/>
+    <file name="7-crop-u2301.jpg" crc="4038822142" ref="chamberlaine-cove,-new-residence"/>
+    <file name="11-crop-u9116.jpg" crc="227194949" ref="chamberlaine-cove,-new-residence"/>
+    <file name="11-crop-u9163.jpg" crc="4061288590" ref="chamberlaine-cove,-new-residence"/>
+    <file name="reese9.jpg" crc="442552490" ref="commercial"/>
+    <file name="boyd-59-crop-u9389.jpg" crc="3958218121" ref="old-wye-mills,-new-residence"/>
+    <file name="boyd-48-crop-u4011.jpg" crc="209590361" ref="old-wye-mills,-new-residence"/>
+    <file name="boyd-54-crop-u4026.jpg" crc="379092754" ref="old-wye-mills,-new-residence"/>
+    <file name="boyd-50.jpg" crc="106719546" ref="old-wye-mills,-new-residence"/>
+    <file name="boyd-49.jpg" crc="10785310" ref="old-wye-mills,-new-residence"/>
+    <file name="boyd-55.jpg" crc="525407875" ref="old-wye-mills,-new-residence"/>
+    <file name="boyd-8.jpg" crc="3777389869" ref="old-wye-mills,-new-residence"/>
+    <file name="boyd-11-crop-u9200.jpg" crc="18043993" ref="old-wye-mills,-new-residence"/>
+    <file name="boyd-9.jpg" crc="195395967" ref="old-wye-mills,-new-residence"/>
+    <file name="boyd-12-crop-u9212.jpg" crc="3767490350" ref="old-wye-mills,-new-residence"/>
+    <file name="boyd-17.jpg" crc="72962365" ref="old-wye-mills,-new-residence:phone>old-wye-mills,-new-residence"/>
+    <file name="boyd-14.jpg" crc="4060526848" ref="old-wye-mills,-new-residence:phone>old-wye-mills,-new-residence"/>
+    <file name="boyd-5.jpg" crc="4108070706" ref="old-wye-mills,-new-residence"/>
+    <file name="boyd-4.jpg" crc="4279055797" ref="old-wye-mills,-new-residence"/>
+    <file name="boyd-6.jpg" crc="3838751651" ref="phone>old-wye-mills,-new-residence"/>
+    <file name="boyd-15.jpg" crc="136078416" ref="old-wye-mills,-new-residence"/>
+    <file name="boyd-16.jpg" crc="4099665926" ref="old-wye-mills,-new-residence"/>
+    <file name="boyd-22.jpg" crc="4266377670" ref="old-wye-mills,-new-residence"/>
+    <file name="boyd-24.jpg" crc="4193090635" ref="phone>old-wye-mills,-new-residence"/>
+    <file name="boyd-23.jpg" crc="4275411808" ref="old-wye-mills,-new-residence"/>
+    <file name="boyd-20.jpg" crc="3850316423" ref="old-wye-mills,-new-residence"/>
+    <file name="boyd-21.jpg" crc="4186004165" ref="phone>old-wye-mills,-new-residence"/>
+    <file name="boyd-7-crop-u9296.jpg" crc="4035562525" ref="old-wye-mills,-new-residence"/>
+    <file name="boyd-26-crop-u9302.jpg" crc="3997778654" ref="old-wye-mills,-new-residence"/>
+    <file name="boyd-33.jpg" crc="4045794923" ref="old-wye-mills,-new-residence"/>
+    <file name="boyd-38.jpg" crc="3778971949" ref="old-wye-mills,-new-residence"/>
+    <file name="boyd-28.jpg" crc="4214942557" ref="old-wye-mills,-new-residence"/>
+    <file name="boyd-31.jpg" crc="492900123" ref="old-wye-mills,-new-residence"/>
+    <file name="boyd-32.jpg" crc="4223216735" ref="old-wye-mills,-new-residence"/>
+    <file name="boyd-51.jpg" crc="48344272" ref="old-wye-mills,-new-residence"/>
+    <file name="boyd-60.jpg" crc="494066148" ref="old-wye-mills,-new-residence"/>
+    <file name="boyd-58.jpg" crc="368143732" ref="old-wye-mills,-new-residence"/>
+    <file name="carman0.jpg" crc="268766322" ref="porter-creek,-new-residence"/>
+    <file name="carman01.jpg" crc="396181474" ref="porter-creek,-new-residence"/>
+    <file name="carman11.jpg" crc="3806901116" ref="porter-creek,-new-residence:phone>porter-creek,-new-residence"/>
+    <file name="carman15.jpg" crc="73503540" ref="porter-creek,-new-residence"/>
+    <file name="carman07.jpg" crc="4240702787" ref="porter-creek,-new-residence"/>
+    <file name="carman13.jpg" crc="340759112" ref="porter-creek,-new-residence"/>
+    <file name="carman022.jpg" crc="376640885" ref="porter-creek,-new-residence"/>
+    <file name="carman09.jpg" crc="290024846" ref="porter-creek,-new-residence"/>
+    <file name="carman05-crop-u4192.jpg" crc="4080734228" ref="porter-creek,-new-residence"/>
+    <file name="cone16a-crop-u9540.jpg" crc="4197607019" ref="dixon-creek,-new-residence"/>
+    <file name="cone0.jpg" crc="21558405" ref="dixon-creek,-new-residence"/>
+    <file name="cone1a.jpg" crc="4033169143" ref="dixon-creek,-new-residence"/>
+    <file name="cone11a.jpg" crc="3866464705" ref="dixon-creek,-new-residence"/>
+    <file name="cone10a.jpg" crc="36092587" ref="dixon-creek,-new-residence"/>
+    <file name="cone12a.jpg" crc="64386370" ref="dixon-creek,-new-residence"/>
+    <file name="cone15a2.jpg" crc="179839176" ref="dixon-creek,-new-residence"/>
+    <file name="covehall-8-crop-u4444.jpg" crc="223386654" ref="tred-avon-river-cottage,-renovation"/>
+    <file name="covehall-51.jpg" crc="4258170121" ref="tred-avon-river-cottage,-renovation"/>
+    <file name="covehall-462.jpg" crc="409918002" ref="tred-avon-river-cottage,-renovation"/>
+    <file name="covehall-2.jpg" crc="482271442" ref="tred-avon-river-cottage,-renovation"/>
+    <file name="covehall-48919x657.jpg" crc="522173399" ref="tred-avon-river-cottage,-renovation"/>
+    <file name="covehall-38.jpg" crc="207172528" ref="tred-avon-river-cottage,-renovation"/>
+    <file name="covehall-11.jpg" crc="4188891551" ref="tred-avon-river-cottage,-renovation"/>
+    <file name="covehall-31.jpg" crc="511146838" ref="tred-avon-river-cottage,-renovation"/>
+    <file name="covehall-32.jpg" crc="4043090082" ref="tred-avon-river-cottage,-renovation"/>
+    <file name="covehall-33.jpg" crc="3815207833" ref="tred-avon-river-cottage,-renovation"/>
+    <file name="covehall-35.jpg" crc="8256316" ref="tred-avon-river-cottage,-renovation"/>
+    <file name="covehall-26.jpg" crc="301826750" ref="tred-avon-river-cottage,-renovation"/>
+    <file name="covehall-27.jpg" crc="4120464440" ref="tred-avon-river-cottage,-renovation:phone>tred-avon-river-cottage,-renovation"/>
+    <file name="covehall-25.jpg" crc="528840353" ref="tred-avon-river-cottage,-renovation"/>
+    <file name="covehall-192.jpg" crc="4137994722" ref="tred-avon-river-cottage,-renovation"/>
+    <file name="covehall-23.jpg" crc="4078752414" ref="tred-avon-river-cottage,-renovation"/>
+    <file name="covehall-13.jpg" crc="7516106" ref="tred-avon-river-cottage,-renovation"/>
+    <file name="covehall-18.jpg" crc="3809101479" ref="tred-avon-river-cottage,-renovation"/>
+    <file name="covehall-15.jpg" crc="4233795532" ref="tred-avon-river-cottage,-renovation"/>
+    <file name="covehall-24.jpg" crc="499997605" ref="tred-avon-river-cottage,-renovation"/>
+    <file name="doehler13a.jpg" crc="20257473" ref="miles-river,-renovation---pool-house"/>
+    <file name="doehler02a.jpg" crc="198869038" ref="miles-river,-renovation---pool-house"/>
+    <file name="doehler1a.jpg" crc="4289244738" ref="miles-river,-renovation---pool-house"/>
+    <file name="doehler15a.jpg" crc="223414202" ref="miles-river,-renovation---pool-house"/>
+    <file name="doehler17a.jpg" crc="462785666" ref="miles-river,-renovation---pool-house:phone>miles-river,-renovation---pool-house"/>
+    <file name="doehler9a.jpg" crc="4207501183" ref="phone>miles-river,-renovation---pool-house"/>
+    <file name="doehler7a2.jpg" crc="272380030" ref="miles-river,-renovation---pool-house"/>
+    <file name="doehler5a.jpg" crc="3854617385" ref="miles-river,-renovation---pool-house"/>
+    <file name="doehler4a.jpg" crc="3960707004" ref="miles-river,-renovation---pool-house"/>
+    <file name="doehler03a.jpg" crc="178158743" ref="miles-river,-renovation---pool-house"/>
+    <file name="doehler18a.jpg" crc="23782056" ref="miles-river,-renovation---pool-house"/>
+    <file name="doehler14a.jpg" crc="4061981007" ref="miles-river,-renovation---pool-house"/>
+    <file name="doehler20a2.jpg" crc="307700042" ref="miles-river,-renovation---pool-house"/>
+    <file name="doehler21a-crop-u11743.jpg" crc="195937804" ref="miles-river,-renovation---pool-house"/>
+    <file name="hackett-12.jpg" crc="3969135598" ref="harris-creek,-new-residence"/>
+    <file name="hackett30.jpg" crc="4132980243" ref="harris-creek,-new-residence"/>
+    <file name="hackett-8.jpg" crc="304271053" ref="harris-creek,-new-residence"/>
+    <file name="hackett-2.jpg" crc="360694266" ref="harris-creek,-new-residence"/>
+    <file name="hackett142.jpg" crc="4203214414" ref="harris-creek,-new-residence"/>
+    <file name="hackett17.jpg" crc="4070212286" ref="harris-creek,-new-residence"/>
+    <file name="hackett18.jpg" crc="214191806" ref="harris-creek,-new-residence"/>
+    <file name="hackett192.jpg" crc="228203152" ref="passion:new-construction"/>
+    <file name="hackett23.jpg" crc="3917738148" ref="harris-creek,-new-residence"/>
+    <file name="hermangarage-6.jpg" crc="190389588" ref="plaindealing-creek,-garage"/>
+    <file name="hermangarage-1.jpg" crc="4273277651" ref="plaindealing-creek,-garage"/>
+    <file name="hermangarage-5.jpg" crc="4254426832" ref="plaindealing-creek,-garage:phone>plaindealing-creek,-garage"/>
+    <file name="hermangarage-42.jpg" crc="255697137" ref="passion:new-construction"/>
+    <file name="hermangarage-2.jpg" crc="117942108" ref="plaindealing-creek,-garage"/>
+    <file name="marshall-26.jpg" crc="500602285" ref="tar-creek,-new-residence"/>
+    <file name="marshall-22.jpg" crc="36227677" ref="tar-creek,-new-residence"/>
+    <file name="marshall-34.jpg" crc="3870572173" ref="tar-creek,-new-residence"/>
+    <file name="marshall-272.jpg" crc="367119365" ref="passion:new-construction"/>
+    <file name="marshall-17-retouched.jpg" crc="478795893" ref="tar-creek,-new-residence"/>
+    <file name="marshall-11.jpg" crc="3890975020" ref="tar-creek,-new-residence"/>
+    <file name="marshall-7.jpg" crc="436941470" ref="tar-creek,-new-residence:phone>tar-creek,-new-residence"/>
+    <file name="marshall-92.jpg" crc="150033964" ref="tar-creek,-new-residence"/>
+    <file name="marshall-62.jpg" crc="15885069" ref="tar-creek,-new-residence"/>
+    <file name="marshall-3.jpg" crc="4061670329" ref="tar-creek,-new-residence"/>
+    <file name="marshall-1.jpg" crc="390706285" ref="tar-creek,-new-residence"/>
+    <file name="marshall-15.jpg" crc="3767644612" ref="tar-creek,-new-residence:phone>tar-creek,-new-residence"/>
+    <file name="marshall-16.jpg" crc="254202838" ref="tar-creek,-new-residence"/>
+    <file name="marshall-17.jpg" crc="4269829491" ref="tar-creek,-new-residence"/>
+    <file name="marshall-10.jpg" crc="4130723491" ref="tar-creek,-new-residence"/>
+    <file name="marshall-282.jpg" crc="4209739319" ref="tar-creek,-new-residence"/>
+    <file name="marshall-33.jpg" crc="4090349566" ref="phone>tar-creek,-new-residence"/>
+    <file name="marshall-30.jpg" crc="3911544958" ref="tar-creek,-new-residence:phone>tar-creek,-new-residence"/>
+    <file name="marshall-32.jpg" crc="4206587083" ref="phone>tar-creek,-new-residence"/>
+    <file name="monet-9596-crop-u11589.jpg" crc="425691019" ref="peach-orchard,-renovation,-addition"/>
+    <file name="monet-rt-9591.jpg" crc="4035111197" ref="peach-orchard,-renovation,-addition"/>
+    <file name="monet-rt-9617.jpg" crc="374810244" ref="peach-orchard,-renovation,-addition"/>
+    <file name="monet-rt-3.jpg" crc="365155945" ref="phone>renovations---additions"/>
+    <file name="monet-rt-9581.jpg" crc="4179547709" ref="peach-orchard,-renovation,-addition"/>
+    <file name="monet-rt-1.jpg" crc="3933079605" ref="peach-orchard,-renovation,-addition"/>
+    <file name="1.jpg" crc="322826223" ref="acorn,-renovation,-addition"/>
+    <file name="5-crop-u14130.jpg" crc="4155843275" ref="acorn,-renovation,-addition"/>
+    <file name="11.jpg" crc="3912984447" ref="acorn,-renovation,-addition"/>
+    <file name="10.jpg" crc="436776040" ref="acorn,-renovation,-addition"/>
+    <file name="12.jpg" crc="3956468738" ref="phone>acorn,-renovation,-addition"/>
+    <file name="8.jpg" crc="173152632" ref="acorn,-renovation,-addition"/>
+    <file name="14.jpg" crc="534362888" ref="acorn,-renovation,-addition"/>
+    <file name="13.jpg" crc="48793347" ref="acorn,-renovation,-addition"/>
+    <file name="reese9-crop-u5777.jpg" crc="160970688" ref="turkey-neck-point,-new-residence"/>
+    <file name="reese20.jpg" crc="3926504740" ref="turkey-neck-point,-new-residence"/>
+    <file name="reese1.jpg" crc="432875563" ref="turkey-neck-point,-new-residence"/>
+    <file name="reeseext1.jpg" crc="344173088" ref="turkey-neck-point,-new-residence"/>
+    <file name="reese12a-crop-u13117.jpg" crc="3979941510" ref="turkey-neck-point,-new-residence"/>
+    <file name="reese2.jpg" crc="8390669" ref="turkey-neck-point,-new-residence"/>
+    <file name="reese4.jpg" crc="195791782" ref="turkey-neck-point,-new-residence:phone>turkey-neck-point,-new-residence"/>
+    <file name="reese5.jpg" crc="434586617" ref="turkey-neck-point,-new-residence:phone>turkey-neck-point,-new-residence"/>
+    <file name="reese7.jpg" crc="4236971287" ref="turkey-neck-point,-new-residence:phone>turkey-neck-point,-new-residence"/>
+    <file name="reese10a.jpg" crc="262952064" ref="turkey-neck-point,-new-residence:phone>turkey-neck-point,-new-residence"/>
+    <file name="rosenthal1a.jpg" crc="3848973158" ref="broad-creek,-new-residence"/>
+    <file name="rosenthal4a.jpg" crc="4096172770" ref="broad-creek,-new-residence:phone>broad-creek,-new-residence"/>
+    <file name="rosenthal30a.jpg" crc="411491630" ref="broad-creek,-new-residence"/>
+    <file name="rosenthal3a-crop-u9970.jpg" crc="4045307319" ref="broad-creek,-new-residence"/>
+    <file name="rosenthal23a.jpg" crc="409886248" ref="broad-creek,-new-residence:phone>broad-creek,-new-residence"/>
+    <file name="rosenthal10a2.jpg" crc="193739782" ref="broad-creek,-new-residence"/>
+    <file name="rosenthal28a.jpg" crc="86033762" ref="broad-creek,-new-residence:phone>broad-creek,-new-residence"/>
+    <file name="rosenthal14a.jpg" crc="93935821" ref="broad-creek,-new-residence"/>
+    <file name="rosenthal7a-crop-u9994.jpg" crc="408246387" ref="broad-creek,-new-residence"/>
+    <file name="rosenthal7a-crop-u10003.jpg" crc="334913936" ref="broad-creek,-new-residence"/>
+    <file name="rosenthal24a.jpg" crc="3758760887" ref="broad-creek,-new-residence"/>
+    <file name="rosenthal22a.jpg" crc="4248173206" ref="broad-creek,-new-residence"/>
+    <file name="rosenthal20a.jpg" crc="70279390" ref="broad-creek,-new-residence:phone>broad-creek,-new-residence"/>
+    <file name="rosenthal19a.jpg" crc="108279584" ref="broad-creek,-new-residence:phone>broad-creek,-new-residence"/>
+    <file name="rosenthal34a-crop-u10147.jpg" crc="48675941" ref="broad-creek,-new-residence"/>
+    <file name="rosenthal34a-crop-u10138.jpg" crc="4145053777" ref="broad-creek,-new-residence"/>
+    <file name="rosenthal34a-crop-u10153.jpg" crc="143409026" ref="broad-creek,-new-residence"/>
+    <file name="zecherguesthouse-1.jpg" crc="3969578968" ref="caulk-cove-guest-cottage,-new-construction"/>
+    <file name="zecherguesthouse-3.jpg" crc="3841164355" ref="caulk-cove-guest-cottage,-new-construction:phone>caulk-cove-guest-cottage,-new-construction"/>
+    <file name="zecherguesthouse-6.jpg" crc="4282431747" ref="caulk-cove-guest-cottage,-new-construction:phone>caulk-cove-guest-cottage,-new-construction"/>
+    <file name="zecherguesthouse-4.jpg" crc="4016788534" ref="caulk-cove-guest-cottage,-new-construction"/>
+    <file name="zecherguesthouse-7.jpg" crc="4082084298" ref="caulk-cove-guest-cottage,-new-construction:phone>caulk-cove-guest-cottage,-new-construction"/>
+    <file name="zecherguesthouse-8.jpg" crc="347609434" ref="caulk-cove-guest-cottage,-new-construction:phone>caulk-cove-guest-cottage,-new-construction"/>
+    <file name="zecherguesthouse-9.jpg" crc="387642476" ref="caulk-cove-guest-cottage,-new-construction:phone>caulk-cove-guest-cottage,-new-construction"/>
+    <file name="buckmaster13.jpg" crc="4255217338" ref="jacks-cove,-renovation---addition"/>
+    <file name="buckmaster22.jpg" crc="4257032102" ref="jacks-cove,-renovation---addition"/>
+    <file name="buckmaster18.jpg" crc="3932870960" ref="jacks-cove,-renovation---addition:phone>jacks-cove,-renovation---addition"/>
+    <file name="buckmaster17.jpg" crc="86154081" ref="jacks-cove,-renovation---addition:phone>jacks-cove,-renovation---addition"/>
+    <file name="buckmaster16.jpg" crc="4180694607" ref="jacks-cove,-renovation---addition:phone>jacks-cove,-renovation---addition"/>
+    <file name="buckmaster19.jpg" crc="4219055586" ref="jacks-cove,-renovation---addition:phone>jacks-cove,-renovation---addition"/>
+    <file name="buckmaster34.jpg" crc="4136323701" ref="jacks-cove,-renovation---addition"/>
+    <file name="buckmaster36.jpg" crc="415502703" ref="jacks-cove,-renovation---addition"/>
+    <file name="buckmaster26.jpg" crc="187575823" ref="jacks-cove,-renovation---addition"/>
+    <file name="buckmaster28.jpg" crc="4178221253" ref="jacks-cove,-renovation---addition"/>
+    <file name="buckmaster05.jpg" crc="3817950448" ref="jacks-cove,-renovation---addition"/>
+    <file name="buckmaster40.jpg" crc="233790199" ref="jacks-cove,-renovation---addition"/>
+    <file name="buckmaster25.jpg" crc="351926904" ref="jacks-cove,-renovation---addition:phone>jacks-cove,-renovation---addition"/>
+    <file name="buckmaster03.jpg" crc="132280012" ref="jacks-cove,-renovation---addition:phone>jacks-cove,-renovation---addition"/>
+    <file name="buckmaster04.jpg" crc="3817130733" ref="jacks-cove,-renovation---addition"/>
+    <file name="combopic.jpg" crc="4236189241" ref="contact-us:phone>contact-us"/>
+    <file name="19-crop-u15631.jpg" crc="4142285267" ref="phone>portfolio"/>
+    <file name="boyd-59-crop-u15646.jpg" crc="3814290568" ref="phone>portfolio"/>
+    <file name="carman0-crop-u15667.jpg" crc="129228671" ref="phone>portfolio"/>
+    <file name="cone16a-crop-u15688.jpg" crc="16251137" ref="phone>portfolio"/>
+    <file name="covehall-8-crop-u15637.jpg" crc="19502365" ref="phone>portfolio"/>
+    <file name="doehler11a-crop-u15653.jpg" crc="324010178" ref="phone>portfolio"/>
+    <file name="hackett30-crop-u15672.jpg" crc="3857557701" ref="phone>portfolio"/>
+    <file name="hermangarage-1-crop-u15693.jpg" crc="511147323" ref="phone>portfolio"/>
+    <file name="marshall-38-crop-u15703.jpg" crc="3896780752" ref="phone>portfolio"/>
+    <file name="rosenthal1a-crop-u15641.jpg" crc="4183320480" ref="phone>portfolio"/>
+    <file name="zecherguesthouse-2-crop-u15661.jpg" crc="4140887278" ref="phone>portfolio"/>
+    <file name="buckmaster16-crop-u15682.jpg" crc="4195983947" ref="phone>portfolio"/>
+    <file name="19-crop-u15995.jpg" crc="4146895365" ref="phone>chamberlaine-cove,-new-residence"/>
+    <file name="20380x289.jpg" crc="370913899" ref="phone>chamberlaine-cove,-new-residence"/>
+    <file name="5380x439.jpg" crc="3978911739" ref="phone>chamberlaine-cove,-new-residence"/>
+    <file name="3381x264.jpg" crc="3910374116" ref="phone>chamberlaine-cove,-new-residence"/>
+    <file name="9380x254.jpg" crc="380051002" ref="phone>chamberlaine-cove,-new-residence"/>
+    <file name="7-crop-u16003.jpg" crc="3953701931" ref="phone>chamberlaine-cove,-new-residence"/>
+    <file name="11-crop-u16007.jpg" crc="534032344" ref="phone>chamberlaine-cove,-new-residence"/>
+    <file name="11-crop-u16009.jpg" crc="179449033" ref="phone>chamberlaine-cove,-new-residence"/>
+    <file name="boyd-59-crop-u16036.jpg" crc="3960816657" ref="phone>old-wye-mills,-new-residence"/>
+    <file name="boyd-48-crop-u16040.jpg" crc="4272198562" ref="phone>old-wye-mills,-new-residence"/>
+    <file name="boyd-54-crop-u16038.jpg" crc="4065654528" ref="phone>old-wye-mills,-new-residence"/>
+    <file name="boyd-50380x253.jpg" crc="3986628244" ref="phone>old-wye-mills,-new-residence"/>
+    <file name="boyd-49379x253.jpg" crc="4207588220" ref="phone>old-wye-mills,-new-residence"/>
+    <file name="boyd-55379x423.jpg" crc="3833488574" ref="phone>old-wye-mills,-new-residence"/>
+    <file name="boyd-8379x243.jpg" crc="217912847" ref="phone>old-wye-mills,-new-residence"/>
+    <file name="boyd-11-crop-u16050.jpg" crc="232288169" ref="phone>old-wye-mills,-new-residence"/>
+    <file name="boyd-9379x253.jpg" crc="4197656218" ref="phone>old-wye-mills,-new-residence"/>
+    <file name="boyd-12-crop-u16054.jpg" crc="330599220" ref="phone>old-wye-mills,-new-residence"/>
+    <file name="boyd-5379x253.jpg" crc="3786592862" ref="phone>old-wye-mills,-new-residence"/>
+    <file name="boyd-4379x253.jpg" crc="3811369565" ref="phone>old-wye-mills,-new-residence"/>
+    <file name="boyd-15382x506.jpg" crc="4272129698" ref="phone>old-wye-mills,-new-residence"/>
+    <file name="boyd-16382x254.jpg" crc="103239439" ref="phone>old-wye-mills,-new-residence"/>
+    <file name="boyd-22379x253.jpg" crc="3986760290" ref="phone>old-wye-mills,-new-residence"/>
+    <file name="boyd-23383x265.jpg" crc="4146329203" ref="phone>old-wye-mills,-new-residence"/>
+    <file name="boyd-20379x253.jpg" crc="289885166" ref="phone>old-wye-mills,-new-residence"/>
+    <file name="boyd-7-crop-u16080.jpg" crc="26705162" ref="phone>old-wye-mills,-new-residence"/>
+    <file name="boyd-26-crop-u16082.jpg" crc="3954270033" ref="phone>old-wye-mills,-new-residence"/>
+    <file name="boyd-33380x254.jpg" crc="3810595640" ref="phone>old-wye-mills,-new-residence"/>
+    <file name="boyd-38380x254.jpg" crc="4048636510" ref="phone>old-wye-mills,-new-residence"/>
+    <file name="boyd-28380x291.jpg" crc="232176488" ref="phone>old-wye-mills,-new-residence"/>
+    <file name="boyd-31380x255.jpg" crc="4232861212" ref="phone>old-wye-mills,-new-residence"/>
+    <file name="boyd-32380x254.jpg" crc="3947682839" ref="phone>old-wye-mills,-new-residence"/>
+    <file name="boyd-51380x254.jpg" crc="50486956" ref="phone>old-wye-mills,-new-residence"/>
+    <file name="boyd-60380x254.jpg" crc="4099495793" ref="phone>old-wye-mills,-new-residence"/>
+    <file name="boyd-58380x254.jpg" crc="3944074273" ref="phone>old-wye-mills,-new-residence"/>
+    <file name="carman0385x308.jpg" crc="4285808815" ref="phone>porter-creek,-new-residence"/>
+    <file name="carman01380x296.jpg" crc="3831391183" ref="phone>porter-creek,-new-residence"/>
+    <file name="carman15380x304.jpg" crc="483422553" ref="phone>porter-creek,-new-residence"/>
+    <file name="carman07380x304.jpg" crc="378587750" ref="phone>porter-creek,-new-residence"/>
+    <file name="carman13380x304.jpg" crc="430883293" ref="phone>porter-creek,-new-residence"/>
+    <file name="carman02401x269.jpg" crc="3930598172" ref="phone>porter-creek,-new-residence"/>
+    <file name="carman09377x302.jpg" crc="4235061145" ref="phone>porter-creek,-new-residence"/>
+    <file name="carman05-crop-u16165.jpg" crc="285223114" ref="phone>porter-creek,-new-residence"/>
+    <file name="cone16a-crop-u16190.jpg" crc="477520517" ref="phone>dixon-creek,-new-residence"/>
+    <file name="cone0380x280.jpg" crc="4028208511" ref="phone>dixon-creek,-new-residence"/>
+    <file name="cone1a380x266.jpg" crc="4228324303" ref="phone>dixon-creek,-new-residence"/>
+    <file name="cone11a380x261.jpg" crc="136502502" ref="phone>dixon-creek,-new-residence"/>
+    <file name="cone10a383x537.jpg" crc="4094555718" ref="phone>dixon-creek,-new-residence"/>
+    <file name="cone12a380x287.jpg" crc="3830645860" ref="phone>dixon-creek,-new-residence"/>
+    <file name="cone15a380x281.jpg" crc="3956056360" ref="phone>dixon-creek,-new-residence"/>
+    <file name="covehall-8-crop-u16213.jpg" crc="4021654908" ref="phone>tred-avon-river-cottage,-renovation"/>
+    <file name="covehall-51380x254.jpg" crc="394224002" ref="phone>tred-avon-river-cottage,-renovation"/>
+    <file name="covehall-46385x304.jpg" crc="78355686" ref="phone>tred-avon-river-cottage,-renovation"/>
+    <file name="covehall-2380x274.jpg" crc="434402486" ref="phone>tred-avon-river-cottage,-renovation"/>
+    <file name="covehall-48-crop-u16229.jpg" crc="3787119894" ref="phone>tred-avon-river-cottage,-renovation"/>
+    <file name="covehall-38-crop-u16231.jpg" crc="522253110" ref="phone>tred-avon-river-cottage,-renovation"/>
+    <file name="covehall-11-crop-u16233.jpg" crc="3821988811" ref="phone>tred-avon-river-cottage,-renovation"/>
+    <file name="covehall-31380x289.jpg" crc="4001975480" ref="phone>tred-avon-river-cottage,-renovation"/>
+    <file name="covehall-32380x254.jpg" crc="68670385" ref="phone>tred-avon-river-cottage,-renovation"/>
+    <file name="covehall-33380x254.jpg" crc="526259503" ref="phone>tred-avon-river-cottage,-renovation"/>
+    <file name="covehall-35380x616.jpg" crc="4058583180" ref="phone>tred-avon-river-cottage,-renovation"/>
+    <file name="covehall-26380x254.jpg" crc="485990871" ref="phone>tred-avon-river-cottage,-renovation"/>
+    <file name="covehall-25-crop-u16237.jpg" crc="308877708" ref="phone>tred-avon-river-cottage,-renovation"/>
+    <file name="covehall-19-crop-u16249.jpg" crc="4262687873" ref="phone>tred-avon-river-cottage,-renovation"/>
+    <file name="covehall-23-crop-u16219.jpg" crc="3972735081" ref="phone>tred-avon-river-cottage,-renovation"/>
+    <file name="covehall-13380x254.jpg" crc="223437796" ref="phone>tred-avon-river-cottage,-renovation"/>
+    <file name="covehall-18380x259.jpg" crc="173572786" ref="phone>tred-avon-river-cottage,-renovation"/>
+    <file name="covehall-15380x254.jpg" crc="308155783" ref="phone>tred-avon-river-cottage,-renovation"/>
+    <file name="covehall-24380x254.jpg" crc="3902644597" ref="phone>tred-avon-river-cottage,-renovation"/>
+    <file name="doehler13a380x254.jpg" crc="3914696151" ref="phone>miles-river,-renovation---pool-house"/>
+    <file name="doehler02a380x123.jpg" crc="237147460" ref="phone>miles-river,-renovation---pool-house"/>
+    <file name="doehler1a406x267.jpg" crc="45482049" ref="phone>miles-river,-renovation---pool-house"/>
+    <file name="doehler15a380x254.jpg" crc="4229686703" ref="phone>miles-river,-renovation---pool-house"/>
+    <file name="doehler7a380x246.jpg" crc="120523670" ref="phone>miles-river,-renovation---pool-house"/>
+    <file name="doehler5a380x253.jpg" crc="209464924" ref="phone>miles-river,-renovation---pool-house"/>
+    <file name="doehler4a411x273.jpg" crc="4231679243" ref="phone>miles-river,-renovation---pool-house"/>
+    <file name="doehler03a380x275.jpg" crc="306179307" ref="phone>miles-river,-renovation---pool-house"/>
+    <file name="doehler18a380x304.jpg" crc="330147877" ref="phone>miles-river,-renovation---pool-house"/>
+    <file name="doehler14a380x211.jpg" crc="4186437535" ref="phone>miles-river,-renovation---pool-house"/>
+    <file name="doehler20a380x254.jpg" crc="4040377852" ref="phone>miles-river,-renovation---pool-house"/>
+    <file name="doehler21a380x205.jpg" crc="4060224655" ref="phone>miles-river,-renovation---pool-house"/>
+    <file name="hackett30380x254.jpg" crc="63133955" ref="phone>harris-creek,-new-residence"/>
+    <file name="hackett-12380x254.jpg" crc="4074282656" ref="phone>harris-creek,-new-residence"/>
+    <file name="hackett-8380x254.jpg" crc="4197201136" ref="phone>harris-creek,-new-residence"/>
+    <file name="hackett-2380x293.jpg" crc="385318770" ref="phone>harris-creek,-new-residence"/>
+    <file name="hackett14380x269.jpg" crc="4189887273" ref="phone>harris-creek,-new-residence"/>
+    <file name="hackett17380x254.jpg" crc="500779681" ref="phone>harris-creek,-new-residence"/>
+    <file name="hackett18380x254.jpg" crc="3846943588" ref="phone>harris-creek,-new-residence"/>
+    <file name="hackett23380x265.jpg" crc="4145612628" ref="phone>harris-creek,-new-residence"/>
+    <file name="hermangarage-6435x268.jpg" crc="3974200610" ref="phone>plaindealing-creek,-garage"/>
+    <file name="hermangarage-1380x254.jpg" crc="3766256068" ref="phone>plaindealing-creek,-garage"/>
+    <file name="hermangarage-2380x254.jpg" crc="3900226291" ref="phone>plaindealing-creek,-garage"/>
+    <file name="marshall-26380x277.jpg" crc="4260696804" ref="phone>tar-creek,-new-residence"/>
+    <file name="marshall-22380x254.jpg" crc="391638699" ref="phone>tar-creek,-new-residence"/>
+    <file name="marshall-34380x254.jpg" crc="183498072" ref="phone>tar-creek,-new-residence"/>
+    <file name="marshall-17-retouched380x277.jpg" crc="419663955" ref="phone>tar-creek,-new-residence"/>
+    <file name="marshall-11380x254.jpg" crc="226312692" ref="phone>tar-creek,-new-residence"/>
+    <file name="marshall-9416x277.jpg" crc="465531477" ref="phone>tar-creek,-new-residence"/>
+    <file name="marshall-6380x255.jpg" crc="336542699" ref="phone>tar-creek,-new-residence"/>
+    <file name="marshall-3380x271.jpg" crc="3856933076" ref="phone>tar-creek,-new-residence"/>
+    <file name="marshall-1380x254.jpg" crc="3844896726" ref="phone>tar-creek,-new-residence"/>
+    <file name="marshall-16410x274.jpg" crc="3758950311" ref="phone>tar-creek,-new-residence"/>
+    <file name="marshall-17380x254.jpg" crc="4164076754" ref="phone>tar-creek,-new-residence"/>
+    <file name="marshall-10380x226.jpg" crc="522970610" ref="phone>tar-creek,-new-residence"/>
+    <file name="marshall-28380x243.jpg" crc="412155746" ref="phone>tar-creek,-new-residence"/>
+    <file name="monet-9596-crop-u16433.jpg" crc="4061265133" ref="phone>peach-orchard,-renovation,-addition"/>
+    <file name="monet-rt-9591380x273.jpg" crc="412763329" ref="phone>peach-orchard,-renovation,-addition"/>
+    <file name="monet-rt-9617380x254.jpg" crc="390235124" ref="phone>peach-orchard,-renovation,-addition"/>
+    <file name="monet-rt-9581380x254.jpg" crc="166474554" ref="phone>peach-orchard,-renovation,-addition"/>
+    <file name="monet-rt-1380x265.jpg" crc="35448171" ref="phone>peach-orchard,-renovation,-addition"/>
+    <file name="1380x252.jpg" crc="284828609" ref="phone>acorn,-renovation,-addition"/>
+    <file name="5-crop-u16481.jpg" crc="169810602" ref="phone>acorn,-renovation,-addition"/>
+    <file name="11380x241.jpg" crc="4052535705" ref="phone>acorn,-renovation,-addition"/>
+    <file name="10380x292.jpg" crc="460346401" ref="phone>acorn,-renovation,-addition"/>
+    <file name="8380x262.jpg" crc="487404061" ref="phone>acorn,-renovation,-addition"/>
+    <file name="14380x245.jpg" crc="285787982" ref="phone>acorn,-renovation,-addition"/>
+    <file name="1380x2522.jpg" crc="515240841" ref="phone>acorn,-renovation,-addition"/>
+    <file name="reese9-crop-u16491.jpg" crc="73502137" ref="phone>turkey-neck-point,-new-residence"/>
+    <file name="reese20380x305.jpg" crc="4277312994" ref="phone>turkey-neck-point,-new-residence"/>
+    <file name="reese1380x304.jpg" crc="365119543" ref="phone>turkey-neck-point,-new-residence"/>
+    <file name="reeseext1380x305.jpg" crc="4033200944" ref="phone>turkey-neck-point,-new-residence"/>
+    <file name="reese12a-crop-u16507.jpg" crc="461547763" ref="phone>turkey-neck-point,-new-residence"/>
+    <file name="reese2380x304.jpg" crc="45354351" ref="phone>turkey-neck-point,-new-residence"/>
+    <file name="rosenthal1a380x264.jpg" crc="172543086" ref="phone>broad-creek,-new-residence"/>
+    <file name="rosenthal30a380x254.jpg" crc="4005778916" ref="phone>broad-creek,-new-residence"/>
+    <file name="rosenthal3a-crop-u16525.jpg" crc="145489521" ref="phone>broad-creek,-new-residence"/>
+    <file name="rosenthal14a-crop-u16533.jpg" crc="107293646" ref="phone>broad-creek,-new-residence"/>
+    <file name="rosenthal10a-crop-u16555.jpg" crc="3771463679" ref="phone>broad-creek,-new-residence"/>
+    <file name="rosenthal7a-crop-u16529.jpg" crc="4213951434" ref="phone>broad-creek,-new-residence"/>
+    <file name="rosenthal7a-crop-u16531.jpg" crc="11849515" ref="phone>broad-creek,-new-residence"/>
+    <file name="rosenthal24a380x279.jpg" crc="56130447" ref="phone>broad-creek,-new-residence"/>
+    <file name="rosenthal22a380x250.jpg" crc="3945618199" ref="phone>broad-creek,-new-residence"/>
+    <file name="rosenthal34a-crop-u16549.jpg" crc="4262292750" ref="phone>broad-creek,-new-residence"/>
+    <file name="rosenthal34a-crop-u16545.jpg" crc="162997526" ref="phone>broad-creek,-new-residence"/>
+    <file name="rosenthal34a-crop-u16547.jpg" crc="4124962650" ref="phone>broad-creek,-new-residence"/>
+    <file name="zecherguesthouse-1380x260.jpg" crc="3781583752" ref="phone>caulk-cove-guest-cottage,-new-construction"/>
+    <file name="zecherguesthouse-4380x253.jpg" crc="3873739031" ref="phone>caulk-cove-guest-cottage,-new-construction"/>
+    <file name="buckmaster13380x269.jpg" crc="3971206395" ref="phone>jacks-cove,-renovation---addition"/>
+    <file name="buckmaster22380x241.jpg" crc="3979462039" ref="phone>jacks-cove,-renovation---addition"/>
+    <file name="buckmaster34380x254.jpg" crc="3920571025" ref="phone>jacks-cove,-renovation---addition"/>
+    <file name="buckmaster36380x254.jpg" crc="4181779970" ref="phone>jacks-cove,-renovation---addition"/>
+    <file name="buckmaster26380x271.jpg" crc="4078737194" ref="phone>jacks-cove,-renovation---addition"/>
+    <file name="buckmaster28380x254.jpg" crc="415132312" ref="phone>jacks-cove,-renovation---addition"/>
+    <file name="buckmaster05380x250.jpg" crc="522606946" ref="phone>jacks-cove,-renovation---addition"/>
+    <file name="buckmaster40380x296.jpg" crc="3928837399" ref="phone>jacks-cove,-renovation---addition"/>
+    <file name="buckmaster04380x221.jpg" crc="3996777941" ref="phone>jacks-cove,-renovation---addition"/>
+    <file name="doehler8a-crop-u15744.jpg" crc="333443557" ref="phone>passion"/>
+    <file name="hackett19190x246.jpg" crc="45992311" ref="phone>passion"/>
+    <file name="hermangarage-4-crop-u15750.jpg" crc="4294617023" ref="phone>passion"/>
+    <file name="marshall-27-crop-u15740.jpg" crc="3942077350" ref="phone>passion"/>
+    <file name="rosenthal08-crop-u15742.jpg" crc="3912393505" ref="phone>passion"/>
+    <file name="rosenthal10a-crop-u15746.jpg" crc="4005360614" ref="phone>passion"/>
+    <file name="zecherguesthouse-2-crop-u15738.jpg" crc="4293676126" ref="phone>passion"/>
+    <file name="covehall-19381x572.jpg" crc="3868397314" ref="phone>new-construction"/>
+    <file name="hackett19381x494.jpg" crc="3802976958" ref="phone>new-construction"/>
+    <file name="hermangarage-4381x572.jpg" crc="281625376" ref="phone>new-construction"/>
+    <file name="marshall-27381x570.jpg" crc="4253674189" ref="phone>new-construction"/>
+    <file name="rosenthal08381x544.jpg" crc="3808564492" ref="phone>new-construction"/>
+    <file name="rosenthal10a381x577.jpg" crc="4291199908" ref="phone>new-construction"/>
+    <file name="zecherguesthouse-2381x572.jpg" crc="189770727" ref="phone>new-construction"/>
+    <file name="reese16a-crop-u16698.jpg" crc="395265178" ref="phone>new-construction"/>
+    <file name="covehall-19-crop-u16665.jpg" crc="4230708777" ref="phone>new-construction"/>
+    <file name="hackett19-crop-u16667.jpg" crc="452280341" ref="phone>new-construction"/>
+    <file name="hermangarage-4-crop-u16655.jpg" crc="456800452" ref="phone>new-construction"/>
+    <file name="marshall-27-crop-u16663.jpg" crc="4174298088" ref="phone>new-construction"/>
+    <file name="rosenthal08-crop-u16661.jpg" crc="112580369" ref="phone>new-construction"/>
+    <file name="rosenthal10a-crop-u16659.jpg" crc="3774093325" ref="phone>new-construction"/>
+    <file name="zecherguesthouse-2-crop-u16657.jpg" crc="3903568680" ref="phone>new-construction"/>
+    <file name="covehall-48.jpg" crc="467363972" ref="phone>renovations---additions"/>
+    <file name="2-crop-u16733.jpg" crc="4196349821" ref="phone>renovations---additions"/>
+    <file name="buckmaster31-crop-u16735.jpg" crc="499737174" ref="phone>renovations---additions"/>
+    <file name="covehall-4874x53.jpg" crc="4192746505" ref="phone>renovations---additions"/>
+    <file name="monet-rt--crop-u16737.jpg" crc="91365628" ref="phone>renovations---additions"/>
+    <file name="rt-westdover-3-crop-u16779.jpg" crc="269380769" ref="phone>historic"/>
+    <file name="reese9430x537.jpg" crc="3838858322" ref="phone>commercial"/>
+    <file name="2616x680.jpg" crc="3633107" ref="passion"/>
+    <file name="buckmaster31586x800.jpg" crc="231978561" ref="passion"/>
+    <file name="buckmaster312.jpg" crc="4124491642" ref="renovations---additions"/>
+    <file name="monet-rt-4.jpg" crc="4266105751" ref="renovations---additions"/>
+    <file name="boyd-6267x413.jpg" crc="234584561" ref="old-wye-mills,-new-residence"/>
+    <file name="boyd-24279x418.jpg" crc="33025061" ref="old-wye-mills,-new-residence"/>
+    <file name="boyd-21275x413.jpg" crc="257152089" ref="old-wye-mills,-new-residence"/>
+    <file name="doehler9a271x412.jpg" crc="124796703" ref="miles-river,-renovation---pool-house"/>
+    <file name="marshall-33219x289.jpg" crc="4163381639" ref="tar-creek,-new-residence"/>
+    <file name="marshall-32231x289.jpg" crc="147038232" ref="tar-creek,-new-residence"/>
+    <file name="monet-rt-282x423.jpg" crc="4167065136" ref="peach-orchard,-renovation,-addition"/>
+    <file name="12285x428.jpg" crc="147601732" ref="acorn,-renovation,-addition"/>
+    <file name="logostandard.png" crc="170662032" ref="phone>index:phone>portfolio:phone>chamberlaine-cove,-new-residence:phone>old-wye-mills,-new-residence:phone>porter-creek,-new-residence:phone>dixon-creek,-new-residence:phone>tred-avon-river-cottage,-renovation:phone>miles-river,-renovation---pool-house:phone>harris-creek,-new-residence:phone>plaindealing-creek,-garage:phone>tar-creek,-new-residence:phone>peach-orchard,-renovation,-addition:phone>acorn,-renovation,-addition:phone>turkey-neck-point,-new-residence:phone>broad-creek,-new-residence:phone>caulk-cove-guest-cottage,-new-construction:phone>jacks-cove,-renovation---addition:phone>passion:phone>new-construction:phone>renovations---additions:phone>historic:phone>commercial:phone>process:phone>contact-us:index:passion:process:portfolio:renovations---additions:historic:new-construction:chamberlaine-cove,-new-residence:commercial:old-wye-mills,-new-residence:porter-creek,-new-residence:dixon-creek,-new-residence:tred-avon-river-cottage,-renovation:miles-river,-renovation---pool-house:harris-creek,-new-residence:plaindealing-creek,-garage:tar-creek,-new-residence:peach-orchard,-renovation,-addition:acorn,-renovation,-addition:turkey-neck-point,-new-residence:broad-creek,-new-residence:caulk-cove-guest-cottage,-new-construction:jacks-cove,-renovation---addition:contact-us"/>
+    <file name="u11896-grad.png" crc="3903643838" ref="index:passion:portfolio"/>
+    <file name="u11896-r-grad.png" crc="3790889987" ref="index:passion:portfolio"/>
+    <file name="u11896-m-grad.png" crc="3758134154" ref="index:passion:portfolio"/>
+    <file name="u11896-a-grad.png" crc="4009451236" ref="index:passion:portfolio"/>
+    <file name="u14115-grad.png" crc="415573160" ref="index:passion:portfolio"/>
+    <file name="u14115-r-grad.png" crc="63532173" ref="index:passion:portfolio"/>
+    <file name="u14115-m-grad.png" crc="9041582" ref="index:passion:portfolio"/>
+    <file name="u14115-a-grad.png" crc="418342725" ref="index:passion:portfolio"/>
+  </folder>
+  <file name="index.html" crc="4263946396" mt="1430248772426" redirect="true"/>
+  <file name="passion.html" crc="4153775786" mt="1430248772427" redirect="true"/>
+  <file name="process.html" crc="484747957" mt="1430248772427" redirect="true"/>
+  <file name="portfolio.html" crc="4279981278" mt="1430248772429" redirect="true"/>
+  <file name="renovations---additions.html" crc="148311912" mt="1430248772427" redirect="true"/>
+  <file name="historic.html" crc="276093701" mt="1430248772427" redirect="true"/>
+  <file name="new-construction.html" crc="4279344287" mt="1430248772427" redirect="true"/>
+  <file name="chamberlaine-cove,-new-residence.html" crc="364342386" mt="1430248772430" redirect="true"/>
+  <file name="commercial.html" crc="4010134701" mt="1430248772427" redirect="true"/>
+  <file name="old-wye-mills,-new-residence.html" crc="3920545850" mt="1430248772430" redirect="true"/>
+  <file name="porter-creek,-new-residence.html" crc="3805325388" mt="1430248772431" redirect="true"/>
+  <file name="dixon-creek,-new-residence.html" crc="405114596" mt="1430248772431" redirect="true"/>
+  <file name="tred-avon-river-cottage,-renovation.html" crc="4205623001" mt="1430248772432" redirect="true"/>
+  <file name="miles-river,-renovation---pool-house.html" crc="325413635" mt="1430248772432" redirect="true"/>
+  <file name="harris-creek,-new-residence.html" crc="297483437" mt="1430248772433" redirect="true"/>
+  <file name="plaindealing-creek,-garage.html" crc="99872885" mt="1430248772434" redirect="true"/>
+  <file name="tar-creek,-new-residence.html" crc="57956673" mt="1430248772434" redirect="true"/>
+  <file name="peach-orchard,-renovation,-addition.html" crc="286653005" mt="1430248772435" redirect="true"/>
+  <file name="acorn,-renovation,-addition.html" crc="3908768943" mt="1430248772435" redirect="true"/>
+  <file name="turkey-neck-point,-new-residence.html" crc="3810356972" mt="1430248772436" redirect="true"/>
+  <file name="broad-creek,-new-residence.html" crc="79163016" mt="1430248772436" redirect="true"/>
+  <file name="caulk-cove-guest-cottage,-new-construction.html" crc="477002121" mt="1430248772437" redirect="true"/>
+  <file name="jacks-cove,-renovation---addition.html" crc="3809723385" mt="1430248772437" redirect="true"/>
+  <file name="contact-us.html" crc="131377089" mt="1430248772438" redirect="true"/>
+</manifest>
